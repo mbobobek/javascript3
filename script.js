@@ -52,7 +52,7 @@ else{
 //     result = num1 - num2;
 // } else if (amal === "*") {
 //     result = num1 * num2;
-// } else if (amalr === "/") {
+// } else if (amal === "/") {
 //     if (num2 === 0) {
 //         alert("Nolga bo‘lish mumkin emas!");
 //     } else {
